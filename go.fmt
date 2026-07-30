@@ -1,0 +1,2 @@
+gofmt -s
+go tool goimports -local=lesiw.io,labs.lesiw.io
