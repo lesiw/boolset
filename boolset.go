@@ -90,10 +90,8 @@ func checkFile(pass *analysis.Pass, f *ast.File) {
 			cands = append(cands, c)
 			return true
 		}
-		var (
-			obj = info.Uses[id]
-			c   = byObj[obj]
-		)
+		obj := info.Uses[id]
+		c := byObj[obj]
 		if c == nil {
 			return true
 		}
