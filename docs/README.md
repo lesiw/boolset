@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository has moved to [lesiw.io/tools/analyzers/boolset](https://github.com/lesiw/tools/tree/main/analyzers/boolset).
+
 # lesiw.io/boolset
 
 [![Go Reference](https://pkg.go.dev/badge/lesiw.io/boolset.svg)](https://pkg.go.dev/lesiw.io/boolset)
